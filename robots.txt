@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://huntingtonwaterheater.com/sitemap.xml
